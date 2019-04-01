@@ -6,7 +6,8 @@ Platform: Arduino UNO
 
 [Use VSCODE with Platform.io to compile the code](https://platformio.org/?ref=iotchallenges)
 
-* Instagram text
+### Instagram text
+
 [6 Uno Leds RGB]
 The challenge is make the RGB works showing Red/Green/Blue and do the rainbow
 
